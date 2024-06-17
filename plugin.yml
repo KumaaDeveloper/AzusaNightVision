@@ -1,0 +1,6 @@
+name: AzusaNightVision
+version: 1.0.0
+api: [5.0.0]
+main: KumaDev\NightVision\Main
+author: KumaDeveloper
+description: A plugin to give you night vision

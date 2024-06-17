@@ -1,0 +1,6 @@
+# Configuration for AzusaNightVision plugin
+
+NightVision: true #true/false
+
+# Interval (in seconds) to check for Night Vision
+CheckInterval: 120
