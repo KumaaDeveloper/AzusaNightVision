@@ -5,4 +5,5 @@ branches:
 projects:
   AzusaNightVision:
     path: ""
+    icon: icon.png
 ...
