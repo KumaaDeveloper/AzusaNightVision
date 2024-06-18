@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace KumaDev\PMNightVision;
+namespace KumaDev\NightVision;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
