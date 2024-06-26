@@ -1,6 +1,12 @@
 # Configuration for AzusaNightVision plugin
 
-NightVision: true #true/false
-
 # Interval (in seconds) to check for Night Vision
-CheckInterval: 120
+CheckInterval: 300
+
+# Mode for world selection: "whitelist" or "blacklist"
+Mode: "whitelist"
+
+# List of worlds for whitelist/blacklist
+Worlds:
+  - lobby
+  - world
